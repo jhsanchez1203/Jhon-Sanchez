@@ -1,0 +1,67 @@
+
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "titulo": "Sueños de Libertad",
+        "descripcion": "Un hombre injustamente condenado a prisión planea su escape con la ayuda de un amigo.",
+        "genero": "Drama"
+      },
+      {
+        "id": 2,
+        "titulo": "El Padrino",
+        "descripcion": "La historia de la familia Corleone, una de las más poderosas en la mafia estadounidense.",
+        "genero": "Crimen"
+      },
+      {
+        "id": 3,
+        "titulo": "El Caballero Oscuro",
+        "descripcion": "Batman se enfrenta al Joker, un criminal que quiere sumir a Gotham en el caos.",
+        "genero": "Drama"
+      },
+      {
+        "id": 4,
+        "titulo": "Tiempos Violentos",
+        "descripcion": "Las vidas de dos asesinos a sueldo, un boxeador, y una pareja de delincuentes se entrelazan en cuatro historias de violencia y redención.",
+        "genero": "Crimen"
+      },
+      {
+        "id": 5,
+        "titulo": "Forrest Gump",
+        "descripcion": "La vida de un hombre con un bajo coeficiente intelectual que, a pesar de todo, influye en algunos de los eventos más importantes del siglo XX.",
+        "genero": "Romance"
+      },
+      {
+        "id": 6,
+        "titulo": "El Origen",
+        "descripcion": "Un ladrón que roba secretos corporativos a través de la infiltración en los sueños es encargado de plantar una idea en la mente de un CEO.",
+        "genero": "Aventura"
+      },
+      {
+        "id": 7,
+        "titulo": "El Club de la Pelea",
+        "descripcion": "Un hombre insomne y un vendedor de jabón organizan un club de lucha clandestino que se convierte en algo mucho más.",
+        "genero": "Drama"
+      },
+      {
+        "id": 8,
+        "titulo": "Matrix",
+        "descripcion": "Un hacker descubre la verdad sobre su realidad y su papel en la guerra contra sus controladores.",
+        "genero": "Ciencia Ficción"
+      },
+      {
+        "id": 9,
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "descripcion": "Un hobbit recibe la tarea de destruir un anillo poderoso antes de que caiga en manos del mal.",
+        "genero": "Aventura"
+      },
+      {
+        "id": 10,
+        "titulo": "Gladiador",
+        "descripcion": "Un general romano es traicionado y reducido a la esclavitud, pero lucha para vengar la muerte de su familia.",
+        "genero": "Acción"
+      }
+    ],
+    "generos":["Drama","Crimen","Acción","Romance","Aventura","Ciencia Ficción"]
+}
+  
